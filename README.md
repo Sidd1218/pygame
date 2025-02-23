@@ -1,1 +1,1 @@
-# pygame
+Playing around with pygame package
